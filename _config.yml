@@ -9,7 +9,7 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default"
-title                    : "Selin Yıldırım"
+title                    : "Home Page"
 title_separator          : "-"
 name                     : &name "Selin Yıldırım"
 description              : &description "PhD candidate in Computer Science at UIUC"
