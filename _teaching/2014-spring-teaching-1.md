@@ -9,6 +9,6 @@ location: "Urbana, Illinois"
 ---
 
 
-CSxxx
+UIUC CS-4xx
 ======
 Coming soon... Stay tuned!
