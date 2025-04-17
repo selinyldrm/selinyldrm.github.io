@@ -4,7 +4,7 @@ title: "CV"
 permalink: /cv/
 author_profile: true
 redirect_from:
-  - /resume
+  - /CV.pdf
 ---
 
-{% include base_path %}
+You can download a PDF of my full CV [here]({{ base_path }}/files/CV.pdf).
