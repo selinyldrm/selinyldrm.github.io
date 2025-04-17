@@ -9,7 +9,7 @@ redirect_from:
 
 Hello, I’m Selin — a computer science researcher driven by ever-lasting curiosity and caffeine.
 
-Fun Fact: My name means strong flowing water and is derived from the goddess of the Moon (a.k.a Selene) in Turkish. Feel free to pronounce as "Ce"-"leen"!
+Fun Fact: My name means strong flowing water and is derived from the mythological goddess of the Moon (a.k.a Selene) in Turkish. Feel free to pronounce as "Ce"-"leen"!
 
 My research efforts intersect at efficient Generative Ai and high-performance Machine Learning systems, where I currently explore bringing state-of-the-art Large Language Model inference to resource-constrained GPUs. I’m particularly interested in optimizing speculative decoding subfield of language generation and its GPU-specific optimizations. My doctoral advisor is [Dr. Deming Chen](https://dchen.ece.illinois.edu/). 
 
