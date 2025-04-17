@@ -9,7 +9,7 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default"
-title                    : "Academic Portfolio Website"
+title                    : "Aelin Yıldırım"
 title_separator          : "-"
 name                     : &name "Selin Yıldırım"
 description              : &description "PhD candidate in Computer Science at UIUC"
@@ -35,9 +35,6 @@ author:
   arxiv            : "https://arxiv.org/abs/2407.17651"
   googlescholar    : "https://scholar.google.com/citations?user=IvmGcFQAAAAJ&hl=en"
   impactstory      : # URL
-  orcid            : "http://orcid.org/yourorcidurl"
-  semantic         : # URL
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   researchgate     : # URL
   scopus           : # URL
 
@@ -50,7 +47,6 @@ author:
   stackoverflow    : # User number or user number and name (i.e., use "1" or "1/jeff-atwood")    
 
   # Social media
-  bluesky          : "bsky.app" # Replace this with you Bluesky username
   facebook         : # Username
   flickr           : # Username
   foursquare       : # Username
