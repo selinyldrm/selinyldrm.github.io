@@ -1,6 +1,6 @@
 ---
 title: "Teaching experience 1"
-  collection: UIUC CS
+collection: "UIUC CS"
 type: "Undergraduate course"
 permalink: /teaching/2014-spring-teaching-1
 venue: "UIUC, Siebel School of Computing and Data Science"
@@ -9,6 +9,6 @@ location: "Urbana, Illinois"
 ---
 
 
-Heading 1
+CSxxx
 ======
 Coming soon... Stay tuned!
