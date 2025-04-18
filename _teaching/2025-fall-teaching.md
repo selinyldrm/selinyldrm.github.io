@@ -1,5 +1,5 @@
 ---
-title: "Teaching experience 1"
+title: "Coming soon..."
 collection: "UIUC CS"
 type: "Undergraduate course"
 permalink: /teaching/2025-fall-teaching
@@ -11,4 +11,4 @@ location: "Urbana, Illinois"
 
 UIUC CS-4xx
 ======
-Coming soon... Stay tuned!
+Stay tuned for further announcements!
