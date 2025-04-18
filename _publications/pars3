@@ -1,0 +1,10 @@
+---
+title: "PARS3: Parallel Sparse Skew-Symmetric Matrix-Vector Multiplication with Reverse Cuthill-McKee Reordering1"
+collection: publications
+category: manuscripts
+permalink: /publication/pars3
+date: 2024-07-24
+venue: 'SIAM'
+paperurl: 'https://arxiv.org/pdf/2407.17651'
+citation: 'Yildirim, S., & Manguoglu, M. (2024). PARS3: Parallel Sparse Skew-Symmetric Matrix-Vector Multiplication with Reverse Cuthill-McKee Reordering. arXiv preprint arXiv:2407.17651.'
+---
