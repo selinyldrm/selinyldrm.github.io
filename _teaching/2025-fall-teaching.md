@@ -1,14 +1,14 @@
 ---
-title: "Coming soon..."
+title: "ML and Compilers"
 collection: "UIUC CS"
-type: "Undergraduate course"
+type: "Graduate course"
 permalink: /teaching/2025-fall-teaching
 venue: "UIUC, Siebel School of Computing and Data Science"
-date: 2025-08-22
+date: 2025-08-25
 location: "Urbana, Illinois"
 ---
 
 
-UIUC CS-4xx
+UIUC Fall 2025 | CS521 Machine Learning & Compilers
 ======
-Stay tuned for further announcements!
+[Course Webpage](https://sites.google.com/illinois.edu/cs521mlcompilersfall25/home)
