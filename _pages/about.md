@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-👋 Hello, I’m Selin (ce-line) — a computer science researcher driven by ever-lasting curiosity and caffeine.
+👋 Hello, I’m Selin (ce-line) — a PhD candidate in computer science department of UIUC.
 
 🔍 My research efforts intersect at efficient Generative AI and High-Performance Machine Learning systems, where I have been exploring bringing state-of-the-art Large Language Model inference to resource-constrained GPUs. Particularly, I’m interested in optimizing speculative decoding algorithms on GPUs. My doctoral advisor is [Prof. Dr. Deming Chen](https://dchen.ece.illinois.edu/). 
 
