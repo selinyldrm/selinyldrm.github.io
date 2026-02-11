@@ -215,7 +215,7 @@ collections:
     output: true
     permalink: /:collection/:path/
   service:
-    output: true
+    output: false
     permalink: /:collection/:path/
   portfolio:
     output: true
