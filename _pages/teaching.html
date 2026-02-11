@@ -1,4 +1,4 @@
----
+<!-- ---
 layout: archive
 title: "Teaching"
 permalink: /teaching/
@@ -9,4 +9,29 @@ author_profile: true
 
 {% for post in site.teaching reversed %}
   {% include archive-single.html %}
+{% endfor %} -->
+---
+layout: archive
+title: "Teaching"
+permalink: /teaching/
+author_profile: true
+---
+
+{% include base_path %}
+
+<h2>Teaching</h2>
+<hr />
+
+{% for post in site.teaching reversed %}
+  {% include archive-single.html %}
 {% endfor %}
+
+<br><br>
+
+<h2>Service</h2>
+<hr />
+
+{% for post in site.service reversed %}
+  {% include archive-single.html %}
+{% endfor %}
+
