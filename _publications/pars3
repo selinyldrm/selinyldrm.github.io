@@ -1,7 +1,6 @@
 ---
 title: "PARS3: Parallel Sparse Skew-Symmetric Matrix-Vector Multiplication with Reverse Cuthill-McKee Reordering1"
 collection: publications
-category: conferences
 permalink: /publication/pars3
 date: 2024-07-24
 venue: 'SIAM'

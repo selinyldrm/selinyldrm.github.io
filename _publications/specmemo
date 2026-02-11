@@ -1,10 +1,8 @@
 ---
 title: "SpecMemo: Speculative Decoding is in Your Pocket"
 collection: publications
-category: conferences
 permalink: /publication/specmemo
 date: 2025-05-16
-venue: ''
 paperurl: 'https://arxiv.org/pdf/2506.01986'
 citation: 'Yildirim, S., & Chen, D. (2025). SpecMemo: Speculative Decoding is in Your Pocket. arXiv preprint arXiv:2506.01986.'
 ---
