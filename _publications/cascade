@@ -1,6 +1,7 @@
 ---
 title: "CASCADE: Context-Aware Speculative Decoding for Visual Generation"
 collection: publications
+category: conferences
 permalink: /publication/cascade
 date: 2025-11-13
 citation: 'S. Yildirim, S. D. Chowdhury, M. M. Kamani, V. Appia, and D. Chen, “CASCADE: Context-Aware Speculative Decoding for Visual Generation,” Under Review at IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR), 2026.'
