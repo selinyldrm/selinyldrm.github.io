@@ -13,17 +13,6 @@ author_profile: true
 
 <h2>Service</h2>
 <hr />
-
 {% for post in site.service reversed %}
-  <div class="list__item">
-    <article class="archive__item" style="margin-bottom: 1.5em;">
-      <h3 class="archive__item-title" style="margin-bottom: 0.25em;">{{ post.title }}</h3>
-      
-      {% if post.type or post.venue or post.date %}
-        <p class="archive__item-excerpt" style="margin-top: 0;">
-          {{ post.type }}{% if post.venue %}, {{ post.venue }}{% endif %}, {{ post.date | date: "%Y" }}
-        </p>
-      {% endif %}
-    </article>
-  </div>
+  {% include archive-single.html %}
 {% endfor %}
