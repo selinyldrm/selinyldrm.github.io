@@ -48,3 +48,55 @@
 .publications .archive__item-title a:hover {
   text-decoration: none;
 }
+
+.archive .page__title,
+.archive > h1,
+.archive .page__content > h1 {
+  margin-bottom: 0.75rem;
+  color: var(--global-text-color);
+  font-size: 1.6rem;
+  font-family: $sans-serif;
+  font-weight: 600;
+  line-height: 1.25;
+}
+
+.archive > h2,
+.archive .page__content > h2 {
+  margin-top: 1.5rem;
+  padding-bottom: 0.35rem;
+  color: var(--global-text-color-light);
+  font-size: 1.15rem;
+  font-family: $sans-serif;
+  font-weight: 600;
+  letter-spacing: 0;
+}
+
+.archive__item:hover .archive__item-title {
+  text-decoration: none;
+}
+
+.archive__item-title a:hover {
+  text-decoration: underline;
+}
+
+.archive__item-title a {
+  text-decoration: none;
+}
+
+.archive__item-title {
+  font-size: 1.05rem;
+  line-height: 1.35;
+}
+
+.sidebar .author__urls li.author__desktop {
+  white-space: normal;
+  overflow-wrap: anywhere;
+  word-break: normal;
+
+  @media screen and (min-width: 1024px) {
+    display: grid;
+    grid-template-columns: 1.35em minmax(0, 1fr);
+    column-gap: 0.25em;
+    align-items: start;
+  }
+}
