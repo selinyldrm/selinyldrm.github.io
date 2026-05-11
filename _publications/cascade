@@ -3,7 +3,8 @@ title: "CASCADE: Context-Aware Relaxation for Speculative Image Decoding"
 collection: publications
 category: conferences
 venue: ArXiv
-permalink: https://arxiv.org/pdf/2605.07230v1
+permalink: /publications/cascade
+paperurl: "https://arxiv.org/pdf/2605.07230v1" 
 date: 2026-05-08
-citation: 'S. Yildirim, S. D. Chowdhury, M. M. Kamani, V. Appia, and D. Chen, “CASCADE: Context-Aware Speculative Decoding for Visual Generation.”'
+citation: 'S. Yildirim, S. D. Chowdhury, M. M. Kamani, V. Appia, and D. Chen, “CASCADE: Context-Aware Relaxation for Speculative Image Decoding”'
 ---
