@@ -20,12 +20,12 @@ author_profile: true
         {% endif %}
         {% assign title_shown = true %}
       {% endunless %}
-      {% include archive-single.html %}
+      {% include archive-single.html linked_title=false %}
     {% endfor %}
   {% endfor %}
 {% else %}
   {% for post in site.publications reversed %}
-    {% include archive-single.html %}
+    {% include archive-single.html linked_title=false %}
   {% endfor %}
 {% endif %}
 

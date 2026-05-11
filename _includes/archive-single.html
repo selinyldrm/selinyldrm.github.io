@@ -35,12 +35,14 @@
       {% endif %}
     </h2> -->
     <h2 class="archive__item-title" itemprop="headline">
-      {% if post.collection == 'publications' %}
-      {{ title }}
+      {% if include.linked_title == false %}
+        <span>{{ title }}</span>
+      {% elsif post.collection == 'publications' %}
+        <span>{{ title }}</span>
       {% elsif post.website %}
         <a href="{{ post.website }}" target="_blank" rel="noopener">{{ title }}</a>
       {% elsif post.collection == 'service' %}
-        {{ title }}
+        <span>{{ title }}</span>
       {% elsif post.link %}
         <a href="{{ post.link }}">{{ title }}</a>
       {% else %}
@@ -96,4 +98,3 @@
 
   </article>
 </div>
-
