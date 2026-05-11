@@ -9,5 +9,4 @@ group :jekyll_plugins do
   gem 'webrick', '~> 1.8'
 end
 
-gem 'ffi', '< 1.17'
 gem 'github-pages'
