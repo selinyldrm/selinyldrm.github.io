@@ -41,3 +41,10 @@
     "vendor/font-awesome/brands",
     "vendor/magnific-popup/magnific-popup"
 ;
+
+.publications .archive__item-title,
+.publications .archive__item-title:hover,
+.publications .archive__item-title a,
+.publications .archive__item-title a:hover {
+  text-decoration: none;
+}
