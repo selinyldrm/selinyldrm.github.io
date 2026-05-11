@@ -1,15 +1,15 @@
 $(document).ready(function () {
   $(".publication__copy-citation").on("click", function () {
     var button = $(this);
-    var citation = button.attr("data-citation") || "";
-    var label = button.find("span");
-    var originalLabel = label.text();
+    var input = button.closest(".publication__citation-field").find(".publication__citation-input");
+    var citation = input.val() || "";
+    var originalLabel = button.attr("aria-label");
 
     var markCopied = function () {
-      label.text("Copied");
+      button.attr("aria-label", "Copied reference");
       button.addClass("is-copied");
       setTimeout(function () {
-        label.text(originalLabel);
+        button.attr("aria-label", originalLabel);
         button.removeClass("is-copied");
       }, 1600);
     };

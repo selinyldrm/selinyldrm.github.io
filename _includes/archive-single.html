@@ -72,14 +72,14 @@
     {% if post.citation or post.paperurl or post.slidesurl or post.bibtexurl %}
       <div class="publication__citation">
         {% if post.citation %}
-          <div class="publication__citation-header">
-            <span class="publication__citation-label">Citation</span>
-            <button class="publication__copy-citation" type="button" data-citation="{{ post.citation | strip | escape }}" aria-label="Copy citation">
+          <label class="publication__citation-label" for="citation-{{ post.slug | default: post.title | slugify }}">Reference</label>
+          <div class="publication__citation-field">
+            <input id="citation-{{ post.slug | default: post.title | slugify }}" class="publication__citation-input" type="text" value="{{ post.citation | strip | escape }}" readonly>
+            <button class="publication__copy-citation" type="button" aria-label="Copy paper reference">
               <i class="fas fa-copy" aria-hidden="true"></i>
-              <span>Copy</span>
+              <span class="sr-only">Copy reference</span>
             </button>
           </div>
-          <p class="publication__citation-text">{{ post.citation }}</p>
         {% endif %}
         {% if post.paperurl or post.slidesurl or post.bibtexurl %}
           <div class="publication__links">
