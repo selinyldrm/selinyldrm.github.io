@@ -64,6 +64,11 @@
   letter-spacing: 0;
 }
 
+.archive__section-title {
+  padding-bottom: 0.35rem;
+  border-bottom: 1px solid var(--global-border-color);
+}
+
 .archive__item:hover .archive__item-title {
   text-decoration: none;
 }
@@ -156,6 +161,12 @@
   color: var(--global-text-color);
   font-size: 0.95rem;
   cursor: pointer;
+}
+
+.publication__copy-citation i,
+.publication__copy-citation svg,
+.publication__copy-citation span {
+  pointer-events: none;
 }
 
 .publication__copy-citation:hover,

@@ -16,7 +16,12 @@
   };
 
   document.addEventListener("click", function (event) {
-    var button = event.target.closest(".publication__copy-citation");
+    var target = event.target;
+    if (target.nodeType !== 1) {
+      target = target.parentElement;
+    }
+
+    var button = target && target.closest(".publication__copy-citation");
     if (!button) return;
 
     var field = button.closest(".publication__citation");
