@@ -1,4 +1,4 @@
 ---
 title: "Conference Reviewer"
-type: "CVPR, ICML"
+type: "ICML, NeurIPS, ICLR, CVPR, ICCV, ECCV"
 ---
