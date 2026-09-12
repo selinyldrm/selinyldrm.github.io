@@ -1,4 +1,4 @@
 ---
 title: "Conference Reviewer"
-type: "ICML, NeurIPS, CVPR, ICCAD and FPGA conferences"
+type: "ICML, NeurIPS, HPCA, CVPR, ICCAD and FPGA conferences"
 ---
