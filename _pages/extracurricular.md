@@ -1,4 +1,3 @@
-
 ---
 title: "Extracurricular"
 permalink: /extracurricular/
