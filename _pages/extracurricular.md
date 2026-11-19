@@ -12,19 +12,15 @@ Outside my research and academic work, I enjoy exploring creative art and painti
 <div style="display: flex; flex-wrap: wrap; gap: 30px;">
 
   <div style="flex: 1 1 300px;">
-    <img src="{{ '/images/paintings/painting-1.jpg' | relative_url }}"
+    <img src="{{ '/images/paintings/painting1.HEIC' | relative_url }}"
          alt="Painting 1"
-         style="width: 100%; height: auto;">
-    <p><strong>Painting Title 1</strong></p>
-    <p>Medium, Year</p>
+         style="width: 100%; height: auto;">  
   </div>
 
   <div style="flex: 1 1 300px;">
-    <img src="{{ '/images/paintings/painting-2.jpg' | relative_url }}"
+    <img src="{{ '/images/paintings/painting2.heic' | relative_url }}"
          alt="Painting 2"
          style="width: 100%; height: auto;">
-    <p><strong>Painting Title 2</strong></p>
-    <p>Medium, Year</p>
   </div>
 
 </div>
