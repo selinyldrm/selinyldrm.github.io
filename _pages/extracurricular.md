@@ -1,6 +1,6 @@
 
 ---
-title: "Creative Pursuits"
+title: "Extracurricular"
 permalink: /extracurricular/
 author_profile: true
 ---
